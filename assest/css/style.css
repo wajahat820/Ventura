@@ -304,4 +304,20 @@ color: red;
 #qoute .carousel-item img{
     height: 755px !important;
 }
-
+#FAQ {
+    padding: 100px 0;
+}
+#FAQ h3{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 213.5%;
+    text-align: center;
+    color: #323232;    
+}
+#FAQ .accordion-button p{
+    color: red;
+}
+#FAQ .accordion-item{
+    margin-bottom: 50px;
+}
