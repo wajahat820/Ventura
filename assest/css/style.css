@@ -5,7 +5,7 @@
     font-family: "Poppins", sans-serif;
   }
 .navbar-nav {
-    margin: -14px 151px;
+    margin: -6px 55px;
   }
 .nav-item{
     font-style: normal;
@@ -13,6 +13,9 @@
 }
 .nav-item a{
     color: black;
+}
+.nav-item{
+    padding: 25px;
 }
 #navbare .logo{
     margin-right: 4rem;
@@ -74,6 +77,11 @@ color: #FFFFFF;
 }
 .well i {
     color: red !important;
+    margin-right: 6px;
+    font-size: 18px;
+}
+.well p{
+    padding: 3px;
 }
 .well .navbar-text{
     padding-right: 18px;
@@ -320,4 +328,180 @@ color: red;
 }
 #FAQ .accordion-item{
     margin-bottom: 50px;
+}
+#FAQ .accordion{
+    /* background: #FFFFFF; */
+    /* box-shadow: 8px 13px 47px rgb(98 102 115 / 27%); */
+    /* box-shadow: 0px 1px 46px -2px rgba(0,0,0,0.75); */
+
+    border-radius: 10px;
+}
+#FAQ .accordion{
+    margin-right: 142px;
+    margin-left: 142px;
+}
+#heads{
+    padding: 32px 0;
+}
+#heads h3{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 213.5%;
+    text-align: center;
+    color: #000000;
+}
+#heads p{
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 226.5%;
+color: #000000;
+align-content: center;
+}
+#heads i{
+    color: red;   
+}
+#heads .side{
+    margin-left: 92px;
+}
+#heads i{
+    margin-right: 12px;
+}
+#heat{
+    background-color: #0F1531;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100%;
+}
+#heat{
+padding: 100px 0;
+}
+#heat h4{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+#heat p{
+    font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 30px;
+color: #FFFFFF;
+}
+#service{
+    background-image: url('../img/Rectangle\ 2.png ');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    border-radius: 20px 20px 20px 20px ;
+
+}
+#service .cover{
+    padding: 60px;
+    text-align: center;
+}
+#service .cover h4{
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 27px;
+    color: #FFFFFF;
+    text-align: center;
+}
+#folder{
+    padding: 100px 0;
+}
+#folder h3{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 65px;
+    color: #323232;
+}
+#folder p{
+    font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 246%;
+color: #000000;
+}
+#folder .strike img{
+    margin-top: 90px;
+    padding: 18px;
+}
+#folder span{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 65px;
+    color: red;
+}
+#contakt{
+    padding: 73px 0;
+    text-align: center;
+}
+#contakt h4{
+    color: red;
+    font-weight: 700;
+    font-size: 20px;
+    
+}
+#contakt i{
+    font-size: 50px;
+}
+#contakt .zero{
+    padding: 20px 20px 0px 20px;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #000000;
+}
+#contakt .zeroo{
+    padding: 20px 20px 0px 20px;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #000000;
+
+}
+#contakt .zerooo{
+    padding: 20px 20px 0px 20px;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #000000;
+}
+#forum{
+    background-color: #930303;
+    padding: 100px 0;
+    border-radius: 12px;
+}
+#forum h3{
+    font-weight: 700;
+    font-size: 48px;
+    color: white;
+    text-align: center;
+}
+#forum label{
+    color: white;
+
+}
+#forum .form-control{
+    padding: 14px;
+    margin-bottom: 28px;
+}
+#forum .row{
+    margin-bottom: 13px;
+}
+#forum .turn button{
+    width: 270px;
+    padding: 10px;
+    border-radius: 12px;
+}
+#forum .turn{
+    text-align: center;
+    font-size: 29px;
+    color: black;
+    padding: 12px;
+    font-weight: 400;
 }
